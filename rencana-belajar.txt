@@ -1,0 +1,4 @@
+rencana :
+- basic php
+- laravel
+- nodejs
